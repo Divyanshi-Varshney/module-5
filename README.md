@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://Divyanshi-Varshney.github.io/module-5/index.html)
+# To see the output [CLICK HERE](https://Divyanshi-Varshney.github.io/module-5.io/index.html)
